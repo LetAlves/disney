@@ -1,0 +1,39 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+--root{
+    --silver: #c0c0c0;
+    --fundo: #1d1f2b;
+}
+body{
+    background-color: #1d1f2b;
+}
+img{
+    margin-inline: 15%;
+    width: 850px;
+    
+}
+p{
+    color: #c0c0c0;
+    text-align: center;
+    font-size: 1.1rem;
+}
+h1{
+    text-transform: uppercase;
+    text-align: center;
+    padding: 2rem;
+}
+h1, h2{
+    color: #fff;
+}
+button{
+    background-color: #7a34ebcc;
+    color:#fff;
+    text-transform: uppercase;
+    padding: 20px 70px;
+    border-radius: 10px;
+    border: 0px ;
+    letter-spacing: 2px;
+}
